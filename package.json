@@ -105,6 +105,7 @@
     "lodash": "^4.17.15",
     "prop-types": "15.7.2",
     "react": "^16.10.2",
+    "react-bootstrap": "2.2.1",
     "react-bootstrap-typeahead": "^4.2.2",
     "react-bs-datatable": "^2.1.0",
     "react-chartjs-2": "^2.9.0",
